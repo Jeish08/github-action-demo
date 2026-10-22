@@ -1,0 +1,11 @@
+
+{
+  "name": "github-action-demo",
+  "version": "1.0.0",
+  "description": "A simple Task Tracker for GitHub Actions CI practice",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "build": "node --check script.js"
+  }
+}
