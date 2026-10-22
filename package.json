@@ -5,7 +5,7 @@
   "description": "A simple Task Tracker for GitHub Actions CI practice",
   "private": true,
   "scripts": {
-    "test": "node --test",
+    "test": "node --test test.js",
     "build": "node --check script.js"
   }
 }
